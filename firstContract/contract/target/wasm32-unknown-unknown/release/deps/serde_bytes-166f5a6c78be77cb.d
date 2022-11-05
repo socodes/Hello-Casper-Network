@@ -1,0 +1,11 @@
+/Users/mdidin/Desktop/firstContract/contract/target/wasm32-unknown-unknown/release/deps/serde_bytes-166f5a6c78be77cb.rmeta: /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/Users/mdidin/Desktop/firstContract/contract/target/wasm32-unknown-unknown/release/deps/libserde_bytes-166f5a6c78be77cb.rlib: /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/Users/mdidin/Desktop/firstContract/contract/target/wasm32-unknown-unknown/release/deps/serde_bytes-166f5a6c78be77cb.d: /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs:

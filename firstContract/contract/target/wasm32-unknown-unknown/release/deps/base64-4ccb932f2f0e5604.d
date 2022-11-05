@@ -1,0 +1,12 @@
+/Users/mdidin/Desktop/firstContract/contract/target/wasm32-unknown-unknown/release/deps/base64-4ccb932f2f0e5604.rmeta: /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/lib.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/chunked_encoder.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/display.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/tables.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/encode.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/decode.rs
+
+/Users/mdidin/Desktop/firstContract/contract/target/wasm32-unknown-unknown/release/deps/libbase64-4ccb932f2f0e5604.rlib: /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/lib.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/chunked_encoder.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/display.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/tables.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/encode.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/decode.rs
+
+/Users/mdidin/Desktop/firstContract/contract/target/wasm32-unknown-unknown/release/deps/base64-4ccb932f2f0e5604.d: /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/lib.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/chunked_encoder.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/display.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/tables.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/encode.rs /Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/decode.rs
+
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/lib.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/chunked_encoder.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/display.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/tables.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/encode.rs:
+/Users/mdidin/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.13.1/src/decode.rs:
